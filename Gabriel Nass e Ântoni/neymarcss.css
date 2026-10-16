@@ -41,6 +41,8 @@ body {
 
     overflow-x: hidden;
     background-image: url(menuRDE.png);
+    background-size: 100% auto; 
+    background-position: center;
 }
 
 
