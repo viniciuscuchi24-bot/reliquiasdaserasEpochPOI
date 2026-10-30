@@ -48,7 +48,7 @@ O visual vem todo da pasta `assets/`, como num jogo normal: trocou a imagem, mud
 
 ## No site
 
-O jogo também está no site **https://reliquias-das-eras-projeto-epoch-poi.lovable.app/jogar** (botão ▶ JOGAR). O site é o
+O jogo também está no site **https://reliquias-das-eras-projeto-epoch-poi.lovable.app/** (botão ▶ JOGAR). O site é o
 projeto do Lovable ligado ao repositório `viniciuscuchi24-bot/reliquias-das-eras-projeto-epoch-poi`; o jogo fica na
 pasta `public/jogar/` de lá. Para atualizar o jogo no site: copie `index.html`, `creditos.html`, `js/` e `assets/`
 (menos `assets/personagem/`) para `public/jogar/`, envie para o GitHub e clique em **Publicar** no Lovable.
